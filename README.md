@@ -3,6 +3,7 @@
 <p align="center">
  <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" title="snake" alt="snake">
 </p>
+
 ---
 
 ## Technologies

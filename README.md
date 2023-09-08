@@ -1,9 +1,9 @@
 # 👨‍💻 Hi 
-
+---
 <p align="center">
  <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" title="snake" alt="snake">
 </p>
-
+---
 ## Technologies
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp

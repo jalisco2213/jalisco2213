@@ -4,7 +4,7 @@
  <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" title="snake" alt="snake">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalisco2213&layout=compact&theme=radical)](https://github.com/jalisco2213)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalisco2213&layout=compact&theme=radical)](https://github.com/jalisco2213)
 
 ---
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)

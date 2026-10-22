@@ -14,10 +14,6 @@
   <img src="https://skillicons.dev/icons?i=vue,nuxtjs,astro,vite,electron,html,css,sass,tailwind&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pgit&theme=dark" />
-</p>
-
 <br />
 
   <p align="center">

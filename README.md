@@ -1,17 +1,28 @@
-# 👨‍💻
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:BC52EE&height=120&section=header" />
 
 <p align="center">
- <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" title="snake" alt="snake">
+  <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" alt="snake" />
 </p>
 
----
+<br />
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,lua,c&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,astro,vite,electron,html,css,sass,tailwind&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pgit&theme=dark" />
+</p>
+
+<br />
+
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=jalisco2213&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalisco2213&layout=compact&theme=tokyonight&hide_border=true" />
+  </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BC52EE,100:00ADD8&height=120&section=footer" />
